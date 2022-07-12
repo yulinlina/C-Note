@@ -1,0 +1,4 @@
+﻿  Ip地址判断.cpp
+D:\working\C++\C语言第七次作业\C语言第七次作业\Ip地址判断.cpp(32,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\working\C++\C语言第七次作业\C语言第七次作业\Ip地址判断.cpp(26,6): warning C4101: “length”: 未引用的局部变量
+  C语言第七次作业.vcxproj -> D:\working\C++\C语言第七次作业\Debug\C语言第七次作业.exe

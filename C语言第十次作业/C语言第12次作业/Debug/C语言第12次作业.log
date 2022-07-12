@@ -1,0 +1,10 @@
+﻿  链表升序.cpp
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(19,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(28,6): error C2182: “Insert_rear”: 非法使用“void”类型
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(28,19): error C2275: “NODE”: 将此类型用作表达式非法
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(12): message : 参见“NODE”的声明
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(28,25): error C2062: 意外的类型“int”
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(28,35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(28,35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(61,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\working\C++\C语言第十次作业\C语言第12次作业\链表升序.cpp(64,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
