@@ -1,0 +1,5 @@
+﻿  bird.cpp
+D:\working\C++\Easy.x start\Easy.x start\bird.cpp(11,44): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+D:\working\VS2019\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\working\C++\Easy.x start\Easy.x start\bird.cpp(11,44): message : 尝试匹配参数列表“(IMAGE *, const char [20])”时
+D:\working\C++\Easy.x start\Easy.x start\bird.cpp(14,2): warning C4551: 缺少参数列表的函数调用
